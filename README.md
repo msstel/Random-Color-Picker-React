@@ -1,2 +1,2 @@
-# Random-Color-Picker-codeAC
+# Random-Color-Picker-React
 Random Color Picker
